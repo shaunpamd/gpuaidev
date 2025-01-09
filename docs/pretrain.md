@@ -1,6 +1,6 @@
 # Pretraining Tutorials
 
-The following tutorials cover pretraining the LLaMA model:
+The following tutorials cover pretraining models on AMD GPUs:
 
 ```{toctree}
 :maxdepth: 1

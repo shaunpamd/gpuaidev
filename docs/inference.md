@@ -1,6 +1,9 @@
 # Inference Tutorials
 
-The following tutorials cover inference the LLaMA model:
+The following tutorials cover inference of various models using AMD GPUs:
 
-<!-- - [Pretrain Notebook 1](../notebooks/inference/inference_1.ipynb)
-- [Pretrain Notebook 2](../notebooks/inference/inference_2.ipynb) -->
+
+```{toctree}
+:maxdepth: 1
+
+notebooks/inference/dummy_notebook
