@@ -21,11 +21,19 @@ extensions = [
 # Paths for templates and static files
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', 'sphinx/venv']
+nb_execution_mode = "off"
+nb_execution_excludepatterns = [
+    "notebooks/pretrain/*.ipynb",  # Adjust the path to match notebooks you want to exclude
+]
+nb_execution_allow_errors = True
+nb_render_text_lexer = "none"  # Disables syntax highlighting errors
+
+
 
 source_suffix = ['.md', '.ipynb']  
 # Use Read the Docs theme
 html_theme = 'sphinx_rtd_theme'
 
-# Paths for custom static files (e.g., CSS, JS)
-html_static_path = ['_static']
+# # Paths for custom static files (e.g., CSS, JS)
+# html_static_path = ['_static']
 
