@@ -1,6 +1,11 @@
 # Fine-Tuning Tutorials
 
-The following tutorials cover fine-tuning the LLaMA model:
+The following tutorials cover fine-tuning models on AMD GPUs :
 
-<!-- - [Fine-Tune Notebook 1](../notebooks/fine_tune/fine_tune_1.ipynb)
-- [Fine-Tune Notebook 2](../notebooks/fine_tune/fine_tune_2.ipynb) -->
+```{toctree}
+:maxdepth: 1
+
+notebooks/fine_tune/fine_tuning_lora_qwen2vl
+notebooks/fine_tune/LoRA_Llama-3.1
+notebooks/fine_tune/QLoRA_Llama-3.1
+
