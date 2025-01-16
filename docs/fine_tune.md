@@ -6,6 +6,6 @@ The following tutorials cover fine-tuning models on AMD GPUs :
 :maxdepth: 1
 
 notebooks/fine_tune/fine_tuning_lora_qwen2vl
-notebooks/fine_tune/LoRA_Llama-3.1
+notebooks/fine_tune/LoRA_Llama-3.2
 notebooks/fine_tune/QLoRA_Llama-3.1
 
