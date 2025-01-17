@@ -1,6 +1,6 @@
 # Welcome to AI Developer Hub Documents
 
-This documentation provides tutorials and guides for training, fine-tuning, and inference levaraging popular ML frameworks on AMD GPUs.
+This documentation provides tutorials and guides for training, fine-tuning, and inference leveraging popular ML frameworks on AMD GPUs.
 
 ## Table of Contents
 
@@ -11,3 +11,4 @@ This documentation provides tutorials and guides for training, fine-tuning, and 
 fine_tune
 pretrain
 inference
+notebooks/licensing

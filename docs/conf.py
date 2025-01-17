@@ -7,7 +7,7 @@ version = "0.0.1"
 release = version
 html_title = ""
 author = "Advanced Micro Devices, Inc."
-copyright = "Copyright (c) 2024 Advanced Micro Devices, Inc. All rights reserved."
+copyright = "Copyright (c) 2025 Advanced Micro Devices, Inc. All rights reserved."
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -29,6 +29,16 @@ nb_execution_allow_errors = True
 nb_render_text_lexer = "none"  # Disables syntax highlighting errors
 
 
+nb_execution_mode = "off"
+nb_execution_excludepatterns = [
+    "notebooks/pretrain/*.ipynb",
+    "notebooks/fine-tune/*.ipynb",
+    "notebooks/inference/*.ipynb",  # Adjust the path to match notebooks you want to exclude
+]
+nb_execution_allow_errors = True
+nb_render_text_lexer = "none"  # Disables syntax highlighting errors
+
+
 
 source_suffix = ['.md', '.ipynb']  
 # Use Read the Docs theme
@@ -36,4 +46,3 @@ html_theme = 'sphinx_rtd_theme'
 
 # # Paths for custom static files (e.g., CSS, JS)
 # html_static_path = ['_static']
-
