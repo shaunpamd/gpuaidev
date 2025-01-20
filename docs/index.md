@@ -8,7 +8,7 @@ This documentation provides tutorials and guides for training, fine-tuning, and 
 :maxdepth: 2
 :caption: Contents
 
+inference
 fine_tune
 pretrain
-inference
 notebooks/licensing
