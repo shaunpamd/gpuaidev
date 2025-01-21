@@ -13,7 +13,7 @@ copyright = "Copyright (c) 2025 Advanced Micro Devices, Inc. All rights reserved
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = [
-    'nbsphinx',           # For integrating Jupyter notebooks
+    'myst_nb',            # For integrating Jupyter notebooks
     'sphinx.ext.mathjax', # For rendering math expressions
     'rocm_docs'           # For ROCm Docs theme
 ]
