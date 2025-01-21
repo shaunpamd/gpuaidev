@@ -46,7 +46,8 @@ nb_render_text_lexer = "none"  # Disables syntax highlighting errors
 
 
 
-source_suffix = ['.md', '.ipynb', ".rst"]  
+# source_suffix = ['.md', '.ipynb', ".rst"]
+source_suffix = ['.ipynb']
 # Use Read the Docs theme
 html_theme = 'sphinx_rtd_theme'
 
