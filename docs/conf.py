@@ -13,11 +13,11 @@ copyright = "Copyright (c) 2025 Advanced Micro Devices, Inc. All rights reserved
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = [
-    'myst_nb',            # For integrating Jupyter notebooks
+    'nbsphinx',           # For integrating Jupyter notebooks
     'sphinx.ext.mathjax', # For rendering math expressions
     'rocm_docs'           # For ROCm Docs theme
 ]
-# external_toc_path = "./sphinx/_toc.yml"
+external_toc_path = "./sphinx/_toc.yml"
 external_projects_current_project = "gpuaidev-docs"
 
 html_theme = "rocm_docs_theme"
@@ -46,8 +46,8 @@ nb_render_text_lexer = "none"  # Disables syntax highlighting errors
 
 
 
-# source_suffix = ['.md', '.ipynb', ".rst"]
-source_suffix = ['.ipynb']
+source_suffix = ['.md', '.ipynb', ".rst"]
+# source_suffix = ['.ipynb']
 suppress_warnings = ['app.add_source_parser']
 
 # # Paths for custom static files (e.g., CSS, JS)
