@@ -47,7 +47,6 @@ nb_render_text_lexer = "none"  # Disables syntax highlighting errors
 
 
 source_suffix = ['.md', '.ipynb', ".rst"]
-# source_suffix = ['.ipynb']
 suppress_warnings = ['app.add_source_parser']
 
 # # Paths for custom static files (e.g., CSS, JS)
