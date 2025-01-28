@@ -18,7 +18,7 @@ These tutorials are organized into three main categories:
 *  **Pretraining**: Tutorials on pretraining models from scratch.
 
 All tutorials on the AI Developer Hub are available to download in the Jupyter Notebook format from the
-public GitHub repository at `<https://github.com/ROCm/gpuaidev-docs>`_.
+public GitHub repository at `<https://github.com/ROCm/gpuaidev>`_.
 
 .. grid:: 2
   :gutter: 3
