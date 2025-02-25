@@ -20,6 +20,8 @@ subtrees:
       title: RAG with LlamaIndex and Ollama
     - file: notebooks/inference/ocr_vllm.ipynb
       title: OCR with Vision-Language Models with vLLM
+    - file: notebooks/inference/voice_pipeline_rag_ollama.ipynb.ipynb
+      title: Building AI Pipelines for Voice Assistants
 
   - caption: Fine-tuning tutorials
     entries:
