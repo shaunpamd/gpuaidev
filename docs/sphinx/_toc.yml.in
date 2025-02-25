@@ -18,6 +18,8 @@ subtrees:
       title: From chatbot to rap bot with vLLM
     - file: notebooks/inference/rag_ollama_llamaindex.ipynb
       title: RAG with LlamaIndex and Ollama
+    - file: notebooks/inference/ocr_vllm.ipynb
+      title: OCR with Vision-Language Models with vLLM
     - file: notebooks/inference/voice_pipeline_rag_ollama.ipynb.ipynb
       title: Building AI Pipelines for Voice Assistants
 
