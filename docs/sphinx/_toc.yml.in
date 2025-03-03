@@ -31,6 +31,8 @@ subtrees:
       title: LLM with LoRA
     - file: notebooks/fine_tune/QLoRA_Llama-3.1.ipynb
       title: LLM with QLoRA
+    - file: notebooks/fine_tune/torchtune_llama3.ipynb
+      title: Finetune with torchtune
 
   - caption: Pretraining tutorials
     entries:
@@ -40,6 +42,8 @@ subtrees:
       title: Training configuration with Megatron-LM
     - file: notebooks/pretrain/train_llama_mock_data.ipynb
       title: LLM with Megatron-LM
+    - file: notebooks/pretrain/torchtitan_llama3.ipynb
+      title: Pretrain with torchtitan
 
   - caption: About
     entries:
