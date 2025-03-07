@@ -19,9 +19,9 @@ subtrees:
     - file: notebooks/inference/rag_ollama_llamaindex.ipynb
       title: RAG with LlamaIndex and Ollama
     - file: notebooks/inference/ocr_vllm.ipynb
-      title: OCR with Vision-Language Models with vLLM
-    - file: notebooks/inference/voice_pipeline_rag_ollama.ipynb.ipynb
-      title: Building AI Pipelines for Voice Assistants
+      title: OCR with vision-language models with vLLM
+    - file: notebooks/inference/voice_pipeline_rag_ollama.ipynb
+      title: Building AI pipelines for voice assistants
 
   - caption: Fine-tuning tutorials
     entries:
@@ -32,7 +32,7 @@ subtrees:
     - file: notebooks/fine_tune/QLoRA_Llama-3.1.ipynb
       title: LLM with QLoRA
     - file: notebooks/fine_tune/torchtune_llama3.ipynb
-      title: Finetune with torchtune
+      title: Llama-3.1 8B with torchtune
 
   - caption: Pretraining tutorials
     entries:
@@ -43,7 +43,7 @@ subtrees:
     - file: notebooks/pretrain/train_llama_mock_data.ipynb
       title: LLM with Megatron-LM
     - file: notebooks/pretrain/torchtitan_llama3.ipynb
-      title: Pretrain with torchtitan
+      title: Llama-3.1 8B with torchtitan
 
   - caption: About
     entries:

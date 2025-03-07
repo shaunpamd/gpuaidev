@@ -30,18 +30,22 @@ public GitHub repository at `<https://github.com/ROCm/gpuaidev>`_.
     * :doc:`Deploying with vLLM <./notebooks/inference/3_inference_ver3_HF_vllm>`
     * :doc:`From chatbot to rap bot with vLLM <./notebooks/inference/rapbot_vllm>`
     * :doc:`RAG with LlamaIndex and Ollama <./notebooks/inference/rag_ollama_llamaindex>`
+    * :doc:`OCR with vision-language models with vLLM <./notebooks/inference/ocr_vllm>`
+    * :doc:`Building AI pipelines for voice assistants <./notebooks/inference/voice_pipeline_rag_ollama>`
 
   .. grid-item-card:: Fine-tuning tutorials
 
     * :doc:`VLM with PEFT <./notebooks/fine_tune/fine_tuning_lora_qwen2vl>`
     * :doc:`LLM with LoRA <./notebooks/fine_tune/LoRA_Llama-3.2>`
     * :doc:`LLM with QLoRA <./notebooks/fine_tune/QLoRA_Llama-3.1>`
+    * :doc:`Llama-3.1 8B with torchtune <./notebooks/fine_tune/torchtune_llama3>`
 
   .. grid-item-card:: Pretraining tutorials
 
     * :doc:`OLMo model with PyTorch FSDP <./notebooks/pretrain/torch_fsdp>`
     * :doc:`Training configuration with Megatron-LM <./notebooks/pretrain/setup_tutorial>`
     * :doc:`LLM with Megatron-LM <./notebooks/pretrain/train_llama_mock_data>`
+    * :doc:`Llama-3.1 8B with torchtitan <./notebooks/pretrain/torchtitan_llama3>`
 
 To contribute to the documentation, see
 `Contributing to ROCm <https://rocm.docs.amd.com/en/latest/contribute/contributing.html>`_.
