@@ -47,5 +47,7 @@ subtrees:
 
   - caption: About
     entries:
+    - file: changelog.rst
+      title: Changelog
     - file: notebooks/licensing.md
       title: Licensing and support information
