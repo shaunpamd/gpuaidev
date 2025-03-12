@@ -18,6 +18,10 @@ subtrees:
       title: From chatbot to rap bot with vLLM
     - file: notebooks/inference/rag_ollama_llamaindex.ipynb
       title: RAG with LlamaIndex and Ollama
+    - file: notebooks/inference/ocr_vllm.ipynb
+      title: OCR with vision-language models with vLLM
+    - file: notebooks/inference/voice_pipeline_rag_ollama.ipynb
+      title: Building AI pipelines for voice assistants
 
   - caption: Fine-tuning tutorials
     entries:
@@ -27,6 +31,8 @@ subtrees:
       title: LLM with LoRA
     - file: notebooks/fine_tune/QLoRA_Llama-3.1.ipynb
       title: LLM with QLoRA
+    - file: notebooks/fine_tune/torchtune_llama3.ipynb
+      title: Llama-3.1 8B with torchtune
 
   - caption: Pretraining tutorials
     entries:
@@ -36,8 +42,12 @@ subtrees:
       title: Training configuration with Megatron-LM
     - file: notebooks/pretrain/train_llama_mock_data.ipynb
       title: LLM with Megatron-LM
+    - file: notebooks/pretrain/torchtitan_llama3.ipynb
+      title: Llama-3.1 8B with torchtitan
 
   - caption: About
     entries:
+    - file: changelog.rst
+      title: Changelog
     - file: notebooks/licensing.md
       title: Licensing and support information
