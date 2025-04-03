@@ -1,4 +1,4 @@
-# AI Developer Hubaksndlandlsadna
+# AI Developer Hub
 
 Welcome to the **AI Developer Hub** repository! This project contains Jupyter Notebook tutorials and guides for training, fine-tuning, and inference using popular machine learning frameworks on AMD GPUs.
 
