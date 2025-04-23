@@ -44,6 +44,8 @@ subtrees:
       title: LLM with Megatron-LM
     - file: notebooks/pretrain/torchtitan_llama3.ipynb
       title: Llama-3.1 8B with torchtitan
+    - file: notebooks/pretrain/ddim_pretrain.ipynb
+      title: Llama-3.1 8B with torchtitan
 
   - caption: About
     entries:
