@@ -33,6 +33,8 @@ subtrees:
       title: LLM with QLoRA
     - file: notebooks/fine_tune/torchtune_llama3.ipynb
       title: Llama-3.1 8B with torchtune
+    - file: notebooks/fine_tune/llama_factory_llama3.ipynb
+      title: Llama-3.1 8B with Llama Factory
 
   - caption: Pretraining tutorials
     entries:
@@ -45,7 +47,7 @@ subtrees:
     - file: notebooks/pretrain/torchtitan_llama3.ipynb
       title: Llama-3.1 8B with torchtitan
     - file: notebooks/pretrain/ddim_pretrain.ipynb
-      title: Llama-3.1 8B with torchtitan
+      title: DDIM 
 
   - caption: About
     entries:
