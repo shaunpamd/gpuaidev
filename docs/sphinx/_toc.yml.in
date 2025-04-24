@@ -22,6 +22,9 @@ subtrees:
       title: OCR with vision-language models with vLLM
     - file: notebooks/inference/voice_pipeline_rag_ollama.ipynb
       title: Building AI pipelines for voice assistants
+    - file: notebooks/inference/llama-stack-rocm.ipynb
+      title: Llama Stack
+      
 
   - caption: Fine-tuning tutorials
     entries:
