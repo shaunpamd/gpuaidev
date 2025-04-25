@@ -26,7 +26,8 @@ subtrees:
       title: Speculative Decoding with vLLM 
     - file: notebooks/inference/llama-stack-rocm.ipynb
       title: Llama Stack
-    
+    - file: notebooks/inference/deepseekr1_sglang.ipynb
+      title: deepseekr1_sglang
 
   - caption: Fine-tuning tutorials
     entries:
