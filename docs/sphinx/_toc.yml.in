@@ -23,11 +23,11 @@ subtrees:
     - file: notebooks/inference/voice_pipeline_rag_ollama.ipynb
       title: Building AI pipelines for voice assistants
     - file: notebooks/inference/speculative_decoding_deep_dive.ipynb
-      title: Speculative Decoding with vLLM 
+      title: Speculative decoding with vLLM 
     - file: notebooks/inference/llama-stack-rocm.ipynb
       title: Llama Stack
     - file: notebooks/inference/deepseekr1_sglang.ipynb
-      title: deepseekr1_sglang
+      title: DeepSeek-R1 with SGLang
 
   - caption: Fine-tuning tutorials
     entries:
@@ -40,7 +40,7 @@ subtrees:
     - file: notebooks/fine_tune/torchtune_llama3.ipynb
       title: Llama-3.1 8B with torchtune
     - file: notebooks/fine_tune/llama_factory_llama3.ipynb
-      title: Llama-3.1 8B with Llama Factory
+      title: Llama-3.1 8B with Llama-Factory
 
   - caption: Pretraining tutorials
     entries:

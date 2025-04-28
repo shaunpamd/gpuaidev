@@ -10,6 +10,27 @@ Changelog for the AI Developer Hub
 
 AI developer tutorials are available at the :doc:`AI Developer Hub <./index>`.
 
+Version 3.0
+===========
+
+Added
+------
+
+*  New inference tutorials:
+
+   *  :doc:`Speculative decoding with vLLM <./notebooks/inference/speculative_decoding_deep_dive>`
+   *  :doc:`Llama Stack <./notebooks/inference/llama-stack-rocm>`
+   *  :doc:`DeepSeek-R1 with SGLang <./notebooks/inference/deepseekr1_sglang>`
+
+
+*  New fine-tuning tutorial:
+  
+   *  :doc:`Llama-3.1 8B with Llama-Factory <./notebooks/fine_tune/llama_factory_llama3>`
+
+*  New pretraining tutorial:
+
+   *  :doc:`DDIM  <./notebooks/pretrain/ddim_pretrain>`
+
 Version 2.0
 ===========
 
