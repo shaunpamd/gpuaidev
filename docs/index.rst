@@ -32,6 +32,9 @@ public GitHub repository at `<https://github.com/ROCm/gpuaidev>`_.
     * :doc:`RAG with LlamaIndex and Ollama <./notebooks/inference/rag_ollama_llamaindex>`
     * :doc:`OCR with vision-language models with vLLM <./notebooks/inference/ocr_vllm>`
     * :doc:`Building AI pipelines for voice assistants <./notebooks/inference/voice_pipeline_rag_ollama>`
+    * :doc:`Speculative decoding with vLLM <./notebooks/inference/speculative_decoding_deep_dive>`
+    * :doc:`Llama Stack <./notebooks/inference/llama-stack-rocm>`
+    * :doc:`DeepSeek-R1 with SGLang <./notebooks/inference/deepseekr1_sglang>`
 
   .. grid-item-card:: Fine-tuning tutorials
 
@@ -39,6 +42,7 @@ public GitHub repository at `<https://github.com/ROCm/gpuaidev>`_.
     * :doc:`LLM with LoRA <./notebooks/fine_tune/LoRA_Llama-3.2>`
     * :doc:`LLM with QLoRA <./notebooks/fine_tune/QLoRA_Llama-3.1>`
     * :doc:`Llama-3.1 8B with torchtune <./notebooks/fine_tune/torchtune_llama3>`
+    * :doc:`Llama-3.1 8B with Llama-Factory <./notebooks/fine_tune/llama_factory_llama3>`
 
   .. grid-item-card:: Pretraining tutorials
 
@@ -46,9 +50,10 @@ public GitHub repository at `<https://github.com/ROCm/gpuaidev>`_.
     * :doc:`Training configuration with Megatron-LM <./notebooks/pretrain/setup_tutorial>`
     * :doc:`LLM with Megatron-LM <./notebooks/pretrain/train_llama_mock_data>`
     * :doc:`Llama-3.1 8B with torchtitan <./notebooks/pretrain/torchtitan_llama3>`
+    * :doc:`DDIM <./notebooks/pretrain/ddim_pretrain>`
 
 To contribute to the documentation, see
 `Contributing to ROCm <https://rocm.docs.amd.com/en/latest/contribute/contributing.html>`_.
 
-You can find licensing information on the
+You can find ROCm licensing information on the
 `Licensing <https://rocm.docs.amd.com/en/latest/about/license.html>`_ page.

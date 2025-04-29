@@ -3,7 +3,7 @@ import os
 import sys
 
 project = 'Tutorials for AI developers'
-version = "2.0"
+version = "3.0"
 release = version
 html_title = f"Tutorials for AI developers {version}"
 # html_title = "Tutorials for AI developers"
